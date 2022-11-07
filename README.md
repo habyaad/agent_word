@@ -18,7 +18,7 @@ Look for any length of words starting and ending with any letter of your choice
 ![ba0b4551-6e5a-4f79-a9c5-acfdab824043](https://user-images.githubusercontent.com/66385365/200399316-598cf452-34ae-4d33-be51-27aa011fac1a.jpg)
 
 
-### Result screen Success code - 404
+### Result screen Error code - 404
 ![c2757a0e-9f74-45b2-8ae2-c2fb97540372](https://user-images.githubusercontent.com/66385365/200399383-484b5ef8-a052-424b-81b6-6170efdf2d27.jpg)
 
 ![9c0234c9-5b81-402c-ad68-88e5265482ff](https://user-images.githubusercontent.com/66385365/200399390-addda5bd-1c9c-4310-bf9b-833230279cdb.jpg)
